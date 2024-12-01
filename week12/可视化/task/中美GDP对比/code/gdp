@@ -1,0 +1,81 @@
+import pyecharts.options as opts
+import csv
+from pyecharts.charts import Timeline, Bar, Pie
+
+total_data = {}
+name_list=['中美gdp对比柱状图','中美gdp对比饼状图']
+CN_gdp={}
+US_gdp={}
+
+with open("../data/gdp.csv",mode='r',encoding='utf-8') as fread:
+    reader=csv.DictReader(fread)
+    for row in reader:
+        year=int(row['year'])
+        china_gdp=int(row['china_gdp'])
+        usa_gdp=int(row['usa_gdp'])
+        CN_gdp[year]=china_gdp
+        US_gdp[year]=usa_gdp
+
+
+def format_data(data: dict) -> dict:
+    formatted_data = {}
+    for year in range(2010, 2021):
+        if year in data:
+            value = data[year]
+            formatted_data[year] = {"name": name_list[0], "value": value}
+    formatted_data["sum"] = sum(data.values())
+    formatted_data["max"] = max(data.values())
+    return formatted_data
+
+# 格式化数据
+total_data["china_gdp"] = format_data(CN_gdp)
+total_data["usa_gdp"] = format_data(US_gdp)
+
+def get_year_overlap_chart(year: int) -> Bar:
+    bar = (
+        Bar()
+        .add_xaxis(xaxis_data=name_list)
+        .add_yaxis(
+            series_name="中国GDP",
+            y_axis=[total_data["china_gdp"][year]["value"]],
+            label_opts=opts.LabelOpts(is_show=False),
+        )
+        .add_yaxis(
+            series_name="美国GDP",
+            y_axis=[total_data["usa_gdp"][year]["value"]],
+            label_opts=opts.LabelOpts(is_show=False),
+        )
+        .set_global_opts(
+            title_opts=opts.TitleOpts(
+                title="{}中美经济GDP对比".format(year), subtitle="数据来自国家统计局"
+            ),
+            tooltip_opts=opts.TooltipOpts(
+                is_show=True, trigger="axis", axis_pointer_type="shadow"
+            ),
+        )
+    )
+    pie = (
+        Pie()
+        .add(
+            series_name="中美GDP对比",
+            data_pair=[
+                ["中国", total_data["china_gdp"]["sum"]],
+                ["美国", total_data["usa_gdp"]["sum"]],
+            ],
+            center=["75%", "35%"],
+            radius="28%",
+        )
+        .set_series_opts(tooltip_opts=opts.TooltipOpts(is_show=True, trigger="item"))
+    )
+    return bar.overlap(pie)
+
+
+# 创建时间轴
+timeline = Timeline()
+for y in range(2010, 2021):
+    timeline.add(get_year_overlap_chart(year=y), time_point=str(y))
+
+timeline.add_schema(is_auto_play=True, play_interval=1000)
+timeline.render("中美gdp.html")
+
+

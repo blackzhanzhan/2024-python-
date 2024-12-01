@@ -1,0 +1,1862 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://gallery.pyecharts.org/#/Map/map_base
+Subject: Map - Map_base - Document
+Date: Mon, 18 Nov 2024 18:31:51 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--cLxxtuL6fG5ByWEmXP0Dvt0JwBpWUqBht8vc3A4nPj----"
+
+
+------MultipartBoundary--cLxxtuL6fG5ByWEmXP0Dvt0JwBpWUqBht8vc3A4nPj----
+Content-Type: text/html
+Content-ID: <frame-38DE9F9F861A1A567CB82FC345DF2431@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://gallery.pyecharts.org/#/Map/map_base
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-02f792e8-e5e8-491a-b814-5aa1e45163ca@mhtml.blink" /><l=
+ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-e5c9e3c7-b1a8-4fac=
+-abf6-b1692f4b1945@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css=
+" href=3D"cid:css-331a321b-358a-43fb-b3ca-c1596b52225a@mhtml.blink" /><link=
+ rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-59925b64-b971-4fef-b1=
+9d-6a9e30a85466@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" h=
+ref=3D"cid:css-ffbae473-eb62-4ef5-a07a-152adbcbc91d@mhtml.blink" />
+ =20
+  <title>Map - Map_base - Document</title>
+  <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge,chrome=3D1">
+  <meta name=3D"description" content=3D"Description">
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, user-scalable=3D=
+no, initial-scale=3D1.0, maximum-scale=3D1.0, minimum-scale=3D1.0">
+  <link rel=3D"stylesheet" href=3D"https://pyecharts.org/static/vue.css">
+  <link rel=3D"icon" href=3D"https://gallery.pyecharts.org/favicon.ico">
+</head>
+<body data-page=3D"Map/map_base.md" class=3D"ready sticky"><div style=3D"wi=
+dth: 0px; height: 0px; position: absolute; z-index: 200000;"><template shad=
+owmode=3D"open"><body id=3D"cici-inline-container"><div class=3D"cici-ext-c=
+ontainer semi-always-light cici-ext-always-light"></div></body></template><=
+/div>
+  <nav class=3D"app-nav"><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/" class=3D"active">=E4=B8=BB=
+=E9=A1=B5</a></li>
+<li>Language =E8=AF=AD=E8=A8=80<ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/README">=E4=B8=AD=E6=96=87</=
+a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/README_EN">English</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+  <a href=3D"https://github.com/pyecharts/pyecharts-gallery" class=3D"githu=
+b-corner" aria-label=3D"View source on Github"><svg viewBox=3D"0 0 250 250"=
+ aria-hidden=3D"true"><path d=3D"M0,0 L115,115 L130,115 L142,142 L250,250 L=
+250,0 Z"></path><path d=3D"M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C=
+122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,8=
+0.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill=3D"curr=
+entColor" style=3D"transform-origin: 130px 106px;" class=3D"octo-arm"></pat=
+h><path d=3D"M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6=
+ C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5=
+,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 1=
+76.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73=
+.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.=
+4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,=
+114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,=
+141.9 141.8,141.8 Z" fill=3D"currentColor" class=3D"octo-body"></path></svg=
+></a><section class=3D"cover" style=3D"background: linear-gradient(to left =
+bottom, hsl(174, 100%, 85%) 0%,hsl(32, 100%, 85%) 100%)"><div class=3D"cove=
+r-main"><!--cover--></div><div class=3D"mask"></div></section><main><button=
+ class=3D"sidebar-toggle"><div class=3D"sidebar-toggle-button"><span></span=
+><span></span><span></span></div></button><aside class=3D"sidebar"><div cla=
+ss=3D"search"><div class=3D"input-wrap">
+      <input type=3D"search" value=3D"" aria-label=3D"Search text" placehol=
+der=3D"=E6=90=9C=E7=B4=A2 (Search)">
+      <div class=3D"clear-button">
+        <svg width=3D"26" height=3D"24">
+          <circle cx=3D"12" cy=3D"12" r=3D"11" fill=3D"#ccc"></circle>
+          <path stroke=3D"white" stroke-width=3D"2" d=3D"M8.25,8.25,15.75,1=
+5.75"></path>
+          <path stroke=3D"white" stroke-width=3D"2" d=3D"M8.25,15.75,15.75,=
+8.25"></path>
+        </svg>
+      </div>
+    </div>
+    <div class=3D"results-panel"></div>
+    </div><h1><a class=3D"app-name-link" data-nosearch=3D"" href=3D"https:/=
+/gallery.pyecharts.org/">pyecharts-gallery</a></h1><div class=3D"sidebar-na=
+v"><ul>
+<li>=E6=A6=82=E8=A7=88<ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/README">=E4=B8=AD=E6=96=87=
+=E7=AE=80=E4=BB=8B</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/README_EN">=E8=8B=B1=E6=96=
+=87=E7=AE=80=E4=BB=8B</a></li>
+</ul>
+</li>
+<li><p>=E7=A4=BA=E4=BE=8B</p><ul>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/AMap/README"><strong>=E9=
+=AB=98=E5=BE=B7=E5=9C=B0=E5=9B=BE AMap</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/AMap/amap_base">AMap - AMap_=
+base</a> </li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/BMap/README"><strong>=E7=
+=99=BE=E5=BA=A6=E5=9C=B0=E5=9B=BE BMap</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/BMap/air_quality_baidu_map">=
+BMap - Air_quality_baidu_map</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/BMap/bmap_beijing_bus_routin=
+es">BMap - BMap_beijing_bus_routines</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/BMap/bmap_base">BMap - BMap_=
+base</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/BMap/bmap_heatmap">BMap - BM=
+ap_heatmap</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/BMap/bmap_custom">BMap - BMa=
+p_custom</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/BMap/hiking_trail_in_hangzho=
+u">BMap - Hiking_trail_in_hangzhou</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Bar/README"><strong>=E6=
+=9F=B1=E7=8A=B6=E5=9B=BE Bar</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/stack_bar_percent">Bar -=
+ Stack_bar_percent</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/bar_rotate_xaxis_label">=
+Bar - Bar_rotate_xaxis_label</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/bar_stack0">Bar - Bar_st=
+ack0</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/finance_indices_2002">Ba=
+r - Finance_indices_2002</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/bar_base_dict_config">Ba=
+r - Bar_base_dict_config</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/bar_with_brush">Bar - Ba=
+r_with_brush</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/bar_datazoom_slider">Bar=
+ - Bar_datazoom_slider</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/bar_toolbox">Bar - Bar_t=
+oolbox</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/mixed_bar_and_line">Bar =
+- Mixed_bar_and_line</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/bar_stack1">Bar - Bar_st=
+ack1</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/bar_xyaxis_name">Bar - B=
+ar_xyaxis_name</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/bar_base_with_custom_bac=
+kground_image">Bar - Bar_base_with_custom_background_image</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/bar_chart_display_delay"=
+>Bar - Bar_chart_display_delay</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/bar_datazoom_slider_vert=
+ical">Bar - Bar_datazoom_slider_vertical</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/bar_histogram_color">Bar=
+ - Bar_histogram_color</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/bar_yaxis_formatter">Bar=
+ - Bar_yaxis_formatter</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/bar_markpoint_type">Bar =
+- Bar_markpoint_type</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/multiple_y_axes">Bar - M=
+ultiple_y_axes</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/bar_custom_bar_color">Ba=
+r - Bar_custom_bar_color</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/bar_different_series_gap=
+">Bar - Bar_different_series_gap</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/bar_markline_type">Bar -=
+ Bar_markline_type</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/bar_graphic_component">B=
+ar - Bar_graphic_component</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/bar_waterfall_plot">Bar =
+- Bar_waterfall_plot</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/bar_border_radius">Bar -=
+ Bar_border_radius</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/bar_same_series_gap">Bar=
+ - Bar_same_series_gap</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/bar_datazoom_inside">Bar=
+ - Bar_datazoom_inside</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/bar_is_selected">Bar - B=
+ar_is_selected</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/bar_reversal_axis">Bar -=
+ Bar_reversal_axis</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/bar_markpoint_custom">Ba=
+r - Bar_markpoint_custom</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/bar_base_with_animation"=
+>Bar - Bar_base_with_animation</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/bar_histogram">Bar - Bar=
+_histogram</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/bar_markline_custom">Bar=
+ - Bar_markline_custom</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/bar_base">Bar - Bar_base=
+</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar/bar_datazoom_both">Bar -=
+ Bar_datazoom_both</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Bar3D/README"><strong>3D =
+=E6=9F=B1=E7=8A=B6=E5=9B=BE Bar3D</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar3D/bar3d_punch_card">Bar3=
+d - Bar3d_punch_card</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar3D/bar3d_base">Bar3d - Ba=
+r3d_base</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Bar3D/bar3d_stack">Bar3d - B=
+ar3d_stack</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Boxplot/README"><strong>=
+=E7=AE=B1=E5=BD=A2=E5=9B=BE Boxplot</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Boxplot/boxplot_light_veloci=
+ty">Boxplot - Boxplot_light_velocity</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Boxplot/boxplot_base">Boxplo=
+t - Boxplot_base</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Boxplot/multiple_categories"=
+>Boxplot - Multiple_categories</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Calendar/README"><strong>=
+=E6=97=A5=E5=8E=86=E5=9B=BE Calendar</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Calendar/calendar_heatmap">C=
+alendar - Calendar_heatmap</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Calendar/calendar_label_sett=
+ing">Calendar - Calendar_label_setting</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Calendar/calendar_base">Cale=
+ndar - Calendar_base</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Candlestick/README"><stro=
+ng>K =E7=BA=BF=E5=9B=BE Candlestick</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Candlestick/professional_kli=
+ne_chart">Candlestick - Professional_kline_chart</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Candlestick/kline_itemstyle"=
+>Candlestick - Kline_itemstyle</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Candlestick/basic_candlestic=
+k">Candlestick - Basic_candlestick</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Candlestick/kline_markline">=
+Candlestick - Kline_markline</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Candlestick/kline_base">Cand=
+lestick - Kline_base</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Candlestick/kline_datazoom_i=
+nside">Candlestick - Kline_datazoom_inside</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Candlestick/kline_datazoom_s=
+lider_position">Candlestick - Kline_datazoom_slider_position</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Candlestick/professional_kli=
+ne_brush">Candlestick - Professional_kline_brush</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Candlestick/kline_datazoom_s=
+lider">Candlestick - Kline_datazoom_slider</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Candlestick/kline_split_area=
+">Candlestick - Kline_split_area</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Dataset/README"><strong>=
+=E6=95=B0=E6=8D=AE=E9=9B=86 Dataset</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Dataset/dataset_pie">Dataset=
+ - Dataset_pie</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Dataset/dataset_bar_0">Datas=
+et - Dataset_bar_0</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Dataset/dataset_bar_1">Datas=
+et - Dataset_bar_1</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Dataset/dataset_professional=
+_scatter">Dataset - Dataset_professional_scatter</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/EffectScatter/README"><st=
+rong>=E6=B6=9F=E6=BC=AA=E6=95=A3=E7=82=B9=E5=9B=BE EffectScatter</strong></=
+a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/EffectScatter/effectscatter_=
+symbol">Effectscatter - Effectscatter_symbol</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/EffectScatter/effectscatter_=
+base">Effectscatter - Effectscatter_base</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/EffectScatter/effectscatter_=
+splitline">Effectscatter - Effectscatter_splitline</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Funnel/README"><strong>=
+=E6=BC=8F=E6=96=97=E5=9B=BE Funnel</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Funnel/funnel_sort_ascending=
+">Funnel - Funnel_sort_ascending</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Funnel/funnel_base">Funnel -=
+ Funnel_base</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Funnel/funnel_chart">Funnel =
+- Funnel_chart</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Funnel/funnel_label_inside">=
+Funnel - Funnel_label_inside</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Gauge/README"><strong>=E4=
+=BB=AA=E8=A1=A8=E7=9B=98 Gauge</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Gauge/gauge">Gauge - Gauge</=
+a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Gauge/gauge_base">Gauge - Ga=
+uge_base</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Gauge/gauge_color">Gauge - G=
+auge_color</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Gauge/gauge_label_title_sett=
+ing">Gauge - Gauge_label_title_setting</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Gauge/gauge_change_color">Ga=
+uge - Gauge_change_color</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Gauge/gauge_splitnum_label">=
+Gauge - Gauge_splitnum_label</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Gauge/gauge_change_radius">G=
+auge - Gauge_change_radius</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Geo/README"><strong>=E5=
+=9C=B0=E7=90=86=E5=9D=90=E6=A0=87 Geo</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Geo/geo_chart_countries_js">=
+Geo - Geo_chart_countries_js</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Geo/geo_lines_background">Ge=
+o - Geo_lines_background</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Geo/geo_visualmap_piecewise"=
+>Geo - Geo_visualmap_piecewise</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Geo/geo_lines">Geo - Geo_lin=
+es</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Geo/geo_guangdong">Geo - Geo=
+_guangdong</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Geo/geo_heatmap">Geo - Geo_h=
+eatmap</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Geo/geo_effectscatter">Geo -=
+ Geo_effectscatter</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Geo/geo_base">Geo - Geo_base=
+</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Geo/geo_echart_china_js">Geo=
+ - Geo_echart_china_js</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Graph/README"><strong>=E5=
+=85=B3=E7=B3=BB=E5=9B=BE Graph</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Graph/graph_base">Graph - Gr=
+aph_base</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Graph/graph_with_edge_option=
+s">Graph - Graph_with_edge_options</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Graph/graph_with_options">Gr=
+aph - Graph_with_options</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Graph/graph_weibo">Graph - G=
+raph_weibo</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Graph/npm_dependencies">Grap=
+h - Npm_dependencies</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Graph/graph_les_miserables">=
+Graph - Graph_les_miserables</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/GraphGL/README"><strong>G=
+L =E5=85=B3=E7=B3=BB=E5=9B=BE GraphGL</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/GraphGL/basic_graphgl">Graph=
+gl - Basic_graphgl</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Graphic/README"><strong>=
+=E5=9B=BE=E5=BD=A2=E7=BB=84=E4=BB=B6 Graphic</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Graphic/graphic_image_with_j=
+s">Graphic - Graphic_image_with_js</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Graphic/graphic_rect_bar1">G=
+raphic - Graphic_rect_bar1</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Graphic/graphic_image">Graph=
+ic - Graphic_image</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Graphic/graphic_rect_bar0">G=
+raphic - Graphic_rect_bar0</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Grid/README"><strong>=E7=
+=BB=84=E5=90=88=E7=BB=84=E4=BB=B6 Grid</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Grid/grid_overlap_multi_xy_a=
+xis">Grid - Grid_overlap_multi_xy_axis</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Grid/grid_multi_yaxis">Grid =
+- Grid_multi_yaxis</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Grid/grid_vertical">Grid - G=
+rid_vertical</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Grid/grid_geo_bar">Grid - Gr=
+id_geo_bar</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Grid/grid_horizontal">Grid -=
+ Grid_horizontal</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Heatmap/README"><strong>=
+=E7=83=AD=E5=8A=9B=E5=9B=BE Heatmap</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Heatmap/heatmap_with_label_s=
+how">Heatmap - Heatmap_with_label_show</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Heatmap/heatmap_on_cartesian=
+">Heatmap - Heatmap_on_cartesian</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Heatmap/heatmap_base">Heatma=
+p - Heatmap_base</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Image/README"><strong>=E5=
+=9B=BE=E7=89=87 Image</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Image/image_base">Image - Im=
+age_base</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Line/README"><strong>=E6=
+=8A=98=E7=BA=BF=E5=9B=BE Line</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Line/temperature_change_line=
+_chart">Line - Temperature_change_line_chart</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Line/line_areastyle_boundary=
+_gap">Line - Line_areastyle_boundary_gap</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Line/basic_line_chart">Line =
+- Basic_line_chart</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Line/line_connect_null">Line=
+ - Line_connect_null</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Line/log_axis">Line - Log_ax=
+is</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Line/stacked_line_chart">Lin=
+e - Stacked_line_chart</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Line/line_base">Line - Line_=
+base</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Line/line_yaxis_log">Line - =
+Line_yaxis_log</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Line/rainfall_and_water_flow=
+">Line - Rainfall_and_water_flow</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Line/basic_area_chart">Line =
+- Basic_area_chart</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Line/line_smooth">Line - Lin=
+e_smooth</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Line/rainfall">Line - Rainfa=
+ll</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Line/multiple_x_axes">Line -=
+ Multiple_x_axes</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Line/stacked_area_chart">Lin=
+e - Stacked_area_chart</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Line/line_step">Line - Line_=
+step</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Line/line_color_with_js_func=
+">Line - Line_color_with_js_func</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Line/smoothed_line_chart">Li=
+ne - Smoothed_line_chart</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Line/line_markpoint_custom">=
+Line - Line_markpoint_custom</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Line/distribution_of_electri=
+city">Line - Distribution_of_electricity</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Line/beautiful_line_chart">L=
+ine - Beautiful_line_chart</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Line/beijing_aqi">Line - Bei=
+jing_aqi</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Line/line_style_and_item_sty=
+le">Line - Line_style_and_item_style</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Line/line_markpoint">Line - =
+Line_markpoint</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Line/line_markline">Line - L=
+ine_markline</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Line/line_itemstyle">Line - =
+Line_itemstyle</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Line/line_area_style">Line -=
+ Line_area_style</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Line3D/README"><strong>3D=
+ =E6=8A=98=E7=BA=BF=E5=9B=BE Line3D</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Line3D/line3d_autorotate">Li=
+ne3d - Line3d_autorotate</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Line3D/line3d_rectangular_pr=
+ojection">Line3d - Line3d_rectangular_projection</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Liquid/README"><strong>=
+=E6=B0=B4=E7=90=83=E5=9B=BE Liquid</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Liquid/liquid_shape_diamond"=
+>Liquid - Liquid_shape_diamond</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Liquid/multiple_liquid">Liqu=
+id - Multiple_liquid</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Liquid/liquid_shape_rect">Li=
+quid - Liquid_shape_rect</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Liquid/liquid_base">Liquid -=
+ Liquid_base</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Liquid/liquid_data_precision=
+">Liquid - Liquid_data_precision</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Liquid/liquid_without_outlin=
+e">Liquid - Liquid_without_outline</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Liquid/liquid_shape_arrow">L=
+iquid - Liquid_shape_arrow</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Map/README"><strong>=E5=
+=9C=B0=E5=9B=BE Map</strong></a></p><ul>
+<li class=3D"active"><a href=3D"https://gallery.pyecharts.org/#/Map/map_bas=
+e">Map - Map_base</a><ul class=3D"app-sub-sidebar"><li><a class=3D"section-=
+link" href=3D"https://gallery.pyecharts.org/#/Map/map_base?id=3Dpyecharts-%=
+e4%bb%a3%e7%a0%81-%e6%95%88%e6%9e%9c">pyecharts =E4=BB=A3=E7=A0=81 / =E6=95=
+=88=E6=9E=9C</a></li></ul></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Map/map_guangdong">Map - Map=
+_guangdong</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Map/map_china_cities">Map - =
+Map_china_cities</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Map/map_visualmap_piecewise"=
+>Map - Map_visualmap_piecewise</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Map/map_world">Map - Map_wor=
+ld</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Map/china_gdp_from_1993_to_2=
+018">Map - China_gdp_from_1993_to_2018</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Map/china_gdp_from_1980">Map=
+ - China_gdp_from_1980</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Map/population_density_of_Ho=
+ngKong_v2">Map - Population_density_of_hongkong_v2</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Map/population_density_of_Ho=
+ngKong">Map - Population_density_of_hongkong</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Map/map_without_label">Map -=
+ Map_without_label</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Map/map_visualmap">Map - Map=
+_visualmap</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Map3D/README"><strong>3D =
+=E5=9C=B0=E5=9B=BE Map3D</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Map3D/map3d_with_lines3d">Ma=
+p3d - Map3d_with_lines3d</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Map3D/map3d_with_scatter3d">=
+Map3d - Map3d_with_scatter3d</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Map3D/map3d_with_bar3d">Map3=
+d - Map3d_with_bar3d</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Map3D/map3d_china_base">Map3=
+d - Map3d_china_base</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/MapGlobe/README"><strong>=
+Globe =E5=9C=B0=E5=9B=BE MapGlobe</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/MapGlobe/map_globe_base">Map=
+globe - Map_globe_base</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Overlap/README"><strong>=
+=E5=B1=82=E5=8F=A0=E7=BB=84=E4=BB=B6 Overlap</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Overlap/overlap_bar_line">Ov=
+erlap - Overlap_bar_line</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Overlap/overlap_line_scatter=
+">Overlap - Overlap_line_scatter</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Page/README"><strong>=E9=
+=A1=B5=E9=9D=A2=E7=BB=84=E4=BB=B6 Page</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Page/page_draggable_layout">=
+Page - Page_draggable_layout</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Page/page_simple_layout">Pag=
+e - Page_simple_layout</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Page/page_default_layout">Pa=
+ge - Page_default_layout</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Parallel/README"><strong>=
+=E5=B9=B3=E8=A1=8C=E5=9D=90=E6=A0=87=E7=B3=BB Parallel</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Parallel/basic_parallel">Par=
+allel - Basic_parallel</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Parallel/parallel_category">=
+Parallel - Parallel_category</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/PictorialBar/README"><str=
+ong>=E8=B1=A1=E5=9E=8B=E6=9F=B1=E5=9B=BE PictorialBar</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/PictorialBar/pictorialbar_ba=
+se">Pictorialbar - Pictorialbar_base</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/PictorialBar/pictorialbar_mu=
+lti_custom_symbols">Pictorialbar - Pictorialbar_multi_custom_symbols</a></l=
+i>
+<li><a href=3D"https://gallery.pyecharts.org/#/PictorialBar/pictorialbar_cu=
+stom_symbol">Pictorialbar - Pictorialbar_custom_symbol</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Pie/README"><strong>=E9=
+=A5=BC=E7=8A=B6=E5=9B=BE Pie</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Pie/pie_set_color">Pie - Pie=
+_set_color</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Pie/customized_pie">Pie - Cu=
+stomized_pie</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Pie/pie_rich_label">Pie - Pi=
+e_rich_label</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Pie/pie_position">Pie - Pie_=
+position</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Pie/pie_base">Pie - Pie_base=
+</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Pie/pie_scroll_legend">Pie -=
+ Pie_scroll_legend</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Pie/doughnut_chart">Pie - Do=
+ughnut_chart</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Pie/nested_pies">Pie - Neste=
+d_pies</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Pie/mutiple_pie">Pie - Mutip=
+le_pie</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Pie/pie_rosetype">Pie - Pie_=
+rosetype</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Pie/pie_radius">Pie - Pie_ra=
+dius</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Polar/README"><strong>=E6=
+=9E=81=E5=9D=90=E6=A0=87=E7=B3=BB Polar</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Polar/polar_scatter_0">Polar=
+ - Polar_scatter_0</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Polar/polar_love">Polar - Po=
+lar_love</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Polar/polar_radius">Polar - =
+Polar_radius</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Polar/two_value_axes_in_pola=
+r">Polar - Two_value_axes_in_polar</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Polar/two_value_axes_in_pola=
+r_2">Polar - Two_value_axes_in_polar_2</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Polar/polar_scatter_1">Polar=
+ - Polar_scatter_1</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Polar/polar_angleaxis">Polar=
+ - Polar_angleaxis</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Polar/polar_flower">Polar - =
+Polar_flower</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Polar/polar_effectscatter">P=
+olar - Polar_effectscatter</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Radar/README"><strong>=E9=
+=9B=B7=E8=BE=BE=E5=9B=BE Radar</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Radar/basic_radar_chart">Rad=
+ar - Basic_radar_chart</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Radar/radar_selected_mode">R=
+adar - Radar_selected_mode</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Radar/radar_air_quality">Rad=
+ar - Radar_air_quality</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Radar/radar_angle_radius_axi=
+s">Radar - Radar_angle_radius_axis</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Sankey/README"><strong>=
+=E6=A1=91=E5=9F=BA=E5=9B=BE Sankey</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Sankey/sankey_base">Sankey -=
+ Sankey_base</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Sankey/sankey_diagram">Sanke=
+y - Sankey_diagram</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Sankey/sankey_with_level_set=
+ting">Sankey - Sankey_with_level_setting</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Sankey/sankey_vertical">Sank=
+ey - Sankey_vertical</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Scatter/README"><strong>=
+=E6=95=A3=E7=82=B9=E5=9B=BE Scatter</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Scatter/basic_scatter_chart"=
+>Scatter - Basic_scatter_chart</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Scatter/scatter_multi_dimens=
+ion">Scatter - Scatter_multi_dimension</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Scatter/scatter_visualmap_co=
+lor">Scatter - Scatter_visualmap_color</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Scatter/scatter_splitline">S=
+catter - Scatter_splitline</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Scatter/scatter_visualmap_si=
+ze">Scatter - Scatter_visualmap_size</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Scatter3D/README"><strong=
+>3D =E6=95=A3=E7=82=B9=E5=9B=BE Scatter3D</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Scatter3D/scatter3d">Scatter=
+3d - Scatter3d</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Sunburst/README"><strong>=
+=E6=97=AD=E6=97=A5=E5=9B=BE Sunburst</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Sunburst/drink_flavors">Sunb=
+urst - Drink_flavors</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Sunburst/basic_sunburst">Sun=
+burst - Basic_sunburst</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Surface3D/README"><strong=
+>3D =E6=9B=B2=E9=9D=A2 Surface3D</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Surface3D/surface_wave">Surf=
+ace3d - Surface_wave</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Tab/README"><strong>=E5=
+=88=86=E9=A1=B5=E7=BB=84=E4=BB=B6 Tab</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Tab/tab_base">Tab - Tab_base=
+</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Table/README"><strong>=E8=
+=A1=A8=E6=A0=BC=E7=BB=84=E4=BB=B6 Table</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Table/table_base">Table - Ta=
+ble_base</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Theme/README"><strong>=E4=
+=B8=BB=E9=A2=98=E7=BB=84=E4=BB=B6 Theme</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Theme/theme_example">Theme -=
+ Theme_example</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/ThemeRiver/README"><stron=
+g>=E4=B8=BB=E9=A2=98=E6=B2=B3=E6=B5=81=E5=9B=BE ThemeRiver</strong></a></p>=
+<ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/ThemeRiver/theme_river">Them=
+eriver - Theme_river</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Timeline/README"><strong>=
+=E6=97=B6=E9=97=B4=E8=BD=B4=E7=BB=84=E4=BB=B6 Timeline</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Timeline/timeline_pie">Timel=
+ine - Timeline_pie</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Timeline/timeline_bar_with_g=
+raphic">Timeline - Timeline_bar_with_graphic</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Timeline/timeline_bmap">Time=
+line - Timeline_bmap</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Timeline/timeline_sankey">Ti=
+meline - Timeline_sankey</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Timeline/timeline_bar_revers=
+al">Timeline - Timeline_bar_reversal</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Timeline/timeline_bar">Timel=
+ine - Timeline_bar</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Timeline/timeline_multi_axis=
+">Timeline - Timeline_multi_axis</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Timeline/timeline_map">Timel=
+ine - Timeline_map</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Tree/README"><strong>=E6=
+=A0=91=E5=9B=BE Tree</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Tree/tree_base">Tree - Tree_=
+base</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Tree/tree_bottom_top">Tree -=
+ Tree_bottom_top</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Tree/tree_right_left">Tree -=
+ Tree_right_left</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Tree/tree_left_right">Tree -=
+ Tree_left_right</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Tree/tree_top_bottom">Tree -=
+ Tree_top_bottom</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Tree/radial_tree">Tree - Rad=
+ial_tree</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Tree/tree_layout">Tree - Tre=
+e_layout</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/Treemap/README"><strong>=
+=E7=9F=A9=E5=BD=A2=E6=A0=91=E5=9B=BE Treemap</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/Treemap/echarts_option_query=
+">Treemap - Echarts_option_query</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Treemap/treemap_levels">Tree=
+map - Treemap_levels</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/Treemap/treemap_base">Treema=
+p - Treemap_base</a></li>
+</ul>
+</li>
+<li><p><a href=3D"https://gallery.pyecharts.org/#/WordCloud/README"><strong=
+>=E8=AF=8D=E4=BA=91=E5=9B=BE WordCloud</strong></a></p><ul>
+<li><a href=3D"https://gallery.pyecharts.org/#/WordCloud/wordcloud_custom_m=
+ask_image">Wordcloud - Wordcloud_custom_mask_image</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/WordCloud/basic_wordcloud">W=
+ordcloud - Basic_wordcloud</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/WordCloud/wordcloud_diamond"=
+>Wordcloud - Wordcloud_diamond</a></li>
+<li><a href=3D"https://gallery.pyecharts.org/#/WordCloud/wordcloud_custom_f=
+ont_style">Wordcloud - Wordcloud_custom_font_style</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul></div></aside><section class=3D"content"><article class=3D"markdown-se=
+ction" id=3D"main"><h1>Map - Map_base</h1><h2 id=3D"pyecharts-=E4=BB=A3=E7=
+=A0=81-=E6=95=88=E6=9E=9C"><a href=3D"https://gallery.pyecharts.org/#/Map/m=
+ap_base?id=3Dpyecharts-%e4%bb%a3%e7%a0%81-%e6%95%88%e6%9e%9c" data-id=3D"py=
+echarts-=E4=BB=A3=E7=A0=81-=E6=95=88=E6=9E=9C" class=3D"anchor"><span>pyech=
+arts =E4=BB=A3=E7=A0=81 / =E6=95=88=E6=9E=9C</span></a></h2><pre v-pre=3D""=
+ data-lang=3D"python"><code class=3D"lang-python"><span class=3D"token keyw=
+ord">from</span> pyecharts <span class=3D"token keyword">import</span> opti=
+ons <span class=3D"token keyword">as</span> opts
+<span class=3D"token keyword">from</span> pyecharts<span class=3D"token pun=
+ctuation">.</span>charts <span class=3D"token keyword">import</span> Map
+<span class=3D"token keyword">from</span> pyecharts<span class=3D"token pun=
+ctuation">.</span>faker <span class=3D"token keyword">import</span> Faker
+
+c <span class=3D"token operator">=3D</span> <span class=3D"token punctuatio=
+n">(</span>
+    Map<span class=3D"token punctuation">(</span><span class=3D"token punct=
+uation">)</span>
+    <span class=3D"token punctuation">.</span>add<span class=3D"token punct=
+uation">(</span><span class=3D"token string">"=E5=95=86=E5=AE=B6A"</span><s=
+pan class=3D"token punctuation">,</span> <span class=3D"token punctuation">=
+[</span><span class=3D"token builtin">list</span><span class=3D"token punct=
+uation">(</span>z<span class=3D"token punctuation">)</span> <span class=3D"=
+token keyword">for</span> z <span class=3D"token keyword">in</span> <span c=
+lass=3D"token builtin">zip</span><span class=3D"token punctuation">(</span>=
+Faker<span class=3D"token punctuation">.</span>provinces<span class=3D"toke=
+n punctuation">,</span> Faker<span class=3D"token punctuation">.</span>valu=
+es<span class=3D"token punctuation">(</span><span class=3D"token punctuatio=
+n">)</span><span class=3D"token punctuation">)</span><span class=3D"token p=
+unctuation">]</span><span class=3D"token punctuation">,</span> <span class=
+=3D"token string">"china"</span><span class=3D"token punctuation">)</span>
+    <span class=3D"token punctuation">.</span>set_global_opts<span class=3D=
+"token punctuation">(</span>title_opts<span class=3D"token operator">=3D</s=
+pan>opts<span class=3D"token punctuation">.</span>TitleOpts<span class=3D"t=
+oken punctuation">(</span>title<span class=3D"token operator">=3D</span><sp=
+an class=3D"token string">"Map-=E5=9F=BA=E6=9C=AC=E7=A4=BA=E4=BE=8B"</span>=
+<span class=3D"token punctuation">)</span><span class=3D"token punctuation"=
+>)</span>
+    <span class=3D"token punctuation">.</span>render<span class=3D"token pu=
+nctuation">(</span><span class=3D"token string">"map_base.html"</span><span=
+ class=3D"token punctuation">)</span>
+<span class=3D"token punctuation">)</span></code><button class=3D"docsify-c=
+opy-code-button"><span class=3D"label">=E7=82=B9=E5=87=BB=E5=A4=8D=E5=88=B6=
+ (Click to Copy)</span><span class=3D"error">=E9=94=99=E8=AF=AF (Error)</sp=
+an><span class=3D"success">=E5=A4=8D=E5=88=B6 (Copy)</span></button></pre><=
+iframe width=3D"100%" height=3D"800px" src=3D"cid:frame-BCD5D7B02FAADCCF2AC=
+71994B44C5F1E@mhtml.blink"></iframe>
+<hr><footer><span><a href=3D"https://github.com/pyecharts/pyecharts-gallery=
+">pyecharts-gallery</a> =C2=A92019 - 2023.</span><span>Powered By <a href=
+=3D"https://github.com/QingWei-Li/docsify" target=3D"_blank">docsify</a>.</=
+span></footer></article></section></main>
+ =20
+ =20
+ =20
+ =20
+ =20
+ =20
+
+
+<div style=3D"position: fixed; inset: 0px; z-index: 9999; display: none; al=
+ign-items: center; justify-content: center;"><template shadowmode=3D"open">=
+<div style=3D"width: 100%; height: 100%; display: flex; align-items: center=
+; justify-content: center;"></div></template></div><div id=3D"samantha-toas=
+t-container"></div><div class=3D"progress" style=3D"opacity: 0; width: 0%;"=
+></div><doubao-ai-csui id=3D"cd4788ffc9544814877c6dc97971d1dc" data-host-id=
+=3D"2b74b5dc-b551-4fae-8d94-af65679a3c7c"><template shadowmode=3D"open"><di=
+v id=3D"ciciai-shadow-container" class=3D"cici-ext-container" style=3D"z-in=
+dex: 2147483647; position: absolute; top: 0px; left: 0px; visibility: visib=
+le;"><div class=3D"assistant-WownMw cici-ext-always-light semi-always-light=
+"><div class=3D"floatBtn-CjYdnn right-EKGjLV" style=3D"transform: translate=
+3d(0px, -161.088px, 0px);"><div class=3D"floatBtnWrapper-D6516N"><div style=
+=3D"width: 40px; display: flex; justify-content: end;"><div data-role=3D"fl=
+oat-button-list" class=3D"floatBtnList-iGgAce" style=3D"flex-direction: col=
+umn;"><div class=3D"wrapper-hUZARQ"><div class=3D"floatBtnPanelItemTranslat=
+e-o3CGMp"><div class=3D"floatBtnPanelItemBlock-r06VPi" data-testid=3D"float=
+-button-translate"><div class=3D"float-button-translate-setting floatBtnPan=
+elItemLangSettingsIcon-re_b2w floatBtnPanelItemIcon-l8mIbk" data-testid=3D"=
+float-button-translate-setting" style=3D"margin: 0px 0px 6px;"><span role=
+=3D"img" class=3D"semi-icon semi-icon-default"><svg xmlns=3D"http://www.w3.=
+org/2000/svg" width=3D"1em" height=3D"1em" fill=3D"none" viewBox=3D"0 0 24 =
+24"><path fill=3D"currentColor" fill-rule=3D"evenodd" d=3D"M13.956 10.953c-=
+1.28 0-2.363-.881-2.723-2.095H4.782C4.35 8.858 4 8.463 4 7.976s.35-.882.782=
+-.882h6.451C11.593 5.88 12.676 5 13.956 5s2.362.88 2.722 2.094h2.54c.432 0 =
+.782.395.782.882s-.35.882-.782.882h-2.54c-.36 1.214-1.442 2.095-2.722 2.095=
+m0-1.488c-.787 0-1.425-.667-1.425-1.489s.638-1.488 1.425-1.488 1.425.666 1.=
+425 1.488-.638 1.489-1.425 1.489M10.044 19c1.28 0 2.363-.881 2.723-2.094h6.=
+451c.432 0 .782-.395.782-.883 0-.487-.35-.882-.782-.882h-6.451c-.36-1.213-1=
+.443-2.094-2.723-2.094s-2.362.881-2.722 2.094h-2.54c-.432 0-.782.395-.782.8=
+82 0 .488.35.883.782.883h2.54C7.682 18.119 8.764 19 10.044 19m0-1.488c.787 =
+0 1.425-.666 1.425-1.488s-.638-1.489-1.425-1.489-1.425.667-1.425 1.489.638 =
+1.488 1.425 1.488" clip-rule=3D"evenodd"></path></svg></span></div><div cla=
+ss=3D"floatBtnPanelItemIcon-l8mIbk" data-testid=3D"float-button-translate-i=
+con"><div class=3D"" tabindex=3D"0" aria-describedby=3D"tzcnxm7" data-popup=
+id=3D"tzcnxm7" style=3D"line-height: 0;"><span role=3D"img" class=3D"semi-i=
+con semi-icon-default"><svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"1=
+em" height=3D"1em" fill=3D"none" viewBox=3D"0 0 24 24"><path fill=3D"curren=
+tColor" fill-rule=3D"evenodd" d=3D"M8.366 3.646a.748.748 0 0 0-.93 1.171l.0=
+02.002.016.013a3 3 0 0 1 .163.146H5.005a.748.748 0 1 0 0 1.495h.87c.374 1.1=
+11.87 2.008 1.813 3.081-.988.746-2.212 1.253-3.076 1.385a.748.748 0 1 0 .22=
+6 1.479c1.17-.18 2.702-.836 3.906-1.79.81.694 1.905 1.328 2.606 1.707a.748.=
+748 0 0 0 .712-1.315c-.67-.362-1.57-.892-2.227-1.428a10.6 10.6 0 0 0 1.92-3=
+.119h.65a.748.748 0 1 0 0-1.495H9.567a6 6 0 0 0-.725-.894 6 6 0 0 0-.431-.4=
+01l-.03-.025-.01-.007-.003-.003zm.413 4.884c-.652-.748-1.03-1.367-1.31-2.05=
+7h2.657A9.1 9.1 0 0 1 8.78 8.53" clip-rule=3D"evenodd"></path><path fill=3D=
+"currentColor" d=3D"M14.425 3.846a.748.748 0 1 0 0 1.495h2.425c.927 0 1.678=
+.751 1.678 1.678v2.425a.748.748 0 0 0 1.495 0V7.019a3.173 3.173 0 0 0-3.173=
+-3.173z"></path><path fill=3D"currentColor" fill-rule=3D"evenodd" d=3D"M16.=
+09 10.118a.75.75 0 0 0-.7.486l-3.089 8.28a.748.748 0 0 0 1.401.522l.724-1.9=
+39h3.329l.723 1.939a.748.748 0 0 0 1.401-.523l-3.088-8.279a.75.75 0 0 0-.7-=
+.486m0 2.887 1.107 2.967h-2.213z" clip-rule=3D"evenodd"></path><path fill=
+=3D"currentColor" d=3D"M4.725 13.547a.75.75 0 0 0-.748.747v2.425a3.173 3.17=
+3 0 0 0 3.173 3.173h2.425a.748.748 0 0 0 0-1.495H7.15a1.677 1.677 0 0 1-1.6=
+78-1.678v-2.425a.75.75 0 0 0-.747-.748"></path></svg></span></div></div></d=
+iv></div></div><div class=3D"semi-divider toolDivider-BKJgFG semi-divider-h=
+orizontal"></div><div class=3D"common-feature-actions-y0M2DV" style=3D"flex=
+-direction: column;"><div class=3D"toolContainer-cfl5wc"><div class=3D"floa=
+tBtnPanelItemIcon-l8mIbk" data-testid=3D"float-button-read-page" tabindex=
+=3D"0" aria-describedby=3D"vgq2k2g" data-popupid=3D"vgq2k2g"><span role=3D"=
+img" class=3D"semi-icon semi-icon-default"><svg xmlns=3D"http://www.w3.org/=
+2000/svg" width=3D"1em" height=3D"1em" fill=3D"none" viewBox=3D"0 0 24 24">=
+<path fill=3D"currentColor" d=3D"M17.493 9.591a.42.42 0 0 0 .289.112.42.42 =
+0 0 0 .293-.112.46.46 0 0 0 .151-.285q.1-.665.212-1.121.112-.454.289-.747.1=
+77-.294.462-.466.289-.173.729-.272a10 10 0 0 1 1.079-.177.443.443 0 0 0 .41=
+4-.449.42.42 0 0 0-.117-.293.5.5 0 0 0-.293-.155q-.639-.09-1.074-.195a2.5 2=
+.5 0 0 1-.712-.276 1.4 1.4 0 0 1-.458-.457 2.8 2.8 0 0 1-.298-.734 15 15 0 =
+0 1-.233-1.117.47.47 0 0 0-.155-.285.4.4 0 0 0-.29-.112.43.43 0 0 0-.293.11=
+2.46.46 0 0 0-.146.285q-.1.664-.212 1.122a2.6 2.6 0 0 1-.293.746 1.4 1.4 0 =
+0 1-.462.466q-.285.173-.725.272t-1.083.173a.46.46 0 0 0-.293.15.42.42 0 0 0=
+-.117.298q0 .173.112.298a.5.5 0 0 0 .294.151q.643.095 1.074.199.436.103.717=
+.276.28.172.453.457.177.285.298.734.12.453.237 1.117.03.173.15.285"></path>=
+<path fill=3D"currentColor" d=3D"M14.356 4.366c.612-.097 1.039-.222 1.37-.4=
+72H8.013q-1.206 0-1.82.63-.615.621-.614 1.826v11.3q0 1.212.614 1.834.615.62=
+2 1.82.622h7.974q1.205 0 1.82-.622.614-.622.614-1.834v-6.783c-.614.255-1.13=
+1.156-1.468-.008v6.7q0 .518-.27.794-.268.277-.816.277H8.14q-.547 0-.816-.27=
+6-.27-.278-.27-.794V6.448q0-.525.27-.802.27-.285.816-.284h4.878c.198-.465.6=
+43-.886 1.338-.996"></path><path fill=3D"currentColor" d=3D"M8.985 8.357a.5=
+.5 0 0 1-.352-.135.48.48 0 0 1-.135-.344q0-.202.135-.337a.5.5 0 0 1 .352-.1=
+35h2.104q.21 0 .345.135t.134.337-.134.344a.47.47 0 0 1-.345.135zM8.633 10.7=
+3q.142.136.352.136h2.104q.21 0 .345-.135a.48.48 0 0 0 .134-.345.46.46 0 0 0=
+-.134-.337.47.47 0 0 0-.345-.134H8.985a.5.5 0 0 0-.352.134.46.46 0 0 0-.135=
+.337q0 .202.135.345"></path><path fill=3D"currentColor" fill-rule=3D"evenod=
+d" d=3D"M8.327 16.84v-3.51q0-.48.255-.72.262-.247.726-.247h5.399q.973 0 .97=
+3.966v3.437h-.524l-1.43-1.647a.55.55 0 0 0-.232-.165.8.8 0 0 0-.27-.045q-.2=
+54 0-.494.21l-1.482 1.31-.592-.54a.65.65 0 0 0-.442-.179.6.6 0 0 0-.42.18l-=
+.943.95zm2.389-1.721q.315 0 .546-.232a.75.75 0 0 0 .233-.547.72.72 0 0 0-.2=
+33-.547.8.8 0 0 0-.546-.232.7.7 0 0 0-.554.217.78.78 0 0 0-.225.562q0 .315.=
+225.547.232.231.554.232" clip-rule=3D"evenodd"></path></svg></span></div></=
+div><div class=3D"toolContainer-cfl5wc" data-testid=3D"sreen-capture-entry"=
+><span class=3D"screen-capture-OafYWh" tabindex=3D"0" aria-describedby=3D"d=
+la2ggx" data-popupid=3D"dla2ggx"><span role=3D"img" class=3D"semi-icon semi=
+-icon-default"><svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"1em" heig=
+ht=3D"1em" fill=3D"none" viewBox=3D"0 0 20 20"><path fill=3D"currentColor" =
+fill-rule=3D"evenodd" d=3D"M13.193 8.217q.09.08.207.08a.3.3 0 0 0 .21-.08.3=
+3.33 0 0 0 .108-.204 9 9 0 0 1 .152-.804q.081-.325.207-.535a1 1 0 0 1 .33-.=
+334q.208-.125.523-.195.315-.075.773-.127A.317.317 0 0 0 16 5.696q0-.12-.083=
+-.21a.35.35 0 0 0-.21-.11 9 9 0 0 1-.77-.14 1.8 1.8 0 0 1-.51-.198 1 1 0 0 =
+1-.328-.328 2 2 0 0 1-.214-.525 11 11 0 0 1-.167-.8.33.33 0 0 0-.11-.205.3.=
+3 0 0 0-.208-.08q-.12 0-.21.08a.33.33 0 0 0-.105.204 9 9 0 0 1-.152.804 1.9=
+ 1.9 0 0 1-.21.535q-.127.207-.331.334-.204.123-.52.195-.315.07-.775.123a.33=
+.33 0 0 0-.21.108.3.3 0 0 0-.084.214q0 .123.08.213.084.09.21.108.461.069.77=
+.143.313.074.514.197a1 1 0 0 1 .324.328q.128.204.213.526.087.324.17.8.022.1=
+24.109.205M11.74 7.008q.088.054.166.117l-1.65 2.357.34.485 1.302 1.86a2.452=
+ 2.452 0 1 1-.939.632l-1.29-1.843-.104-.147-.105.15-1.29 1.842a2.452 2.452 =
+0 1 1-.939-.632l1.303-1.86.34-.487-3.043-4.346a.566.566 0 0 1 .927-.65l2.80=
+7 4.01 1.28-1.826.046.011q.517.122.85.327m-.28 6.886a1.32 1.32 0 1 1 2.6.45=
+8 1.32 1.32 0 0 1-2.6-.458m-3.791.002a1.32 1.32 0 1 0-2.6.458 1.32 1.32 0 0=
+ 0 2.6-.458" clip-rule=3D"evenodd"></path></svg></span></span></div></div><=
+div class=3D"semi-divider toolDivider-BKJgFG semi-divider-horizontal"></div=
+><div class=3D"downloadApp-GSSFOZ"><div class=3D"popover-x56NSX" aria-expan=
+ded=3D"false" aria-haspopup=3D"dialog" tabindex=3D"0" aria-controls=3D"nzqw=
+64b" data-popupid=3D"nzqw64b"><span><span role=3D"img" class=3D"semi-icon s=
+emi-icon-default screen-capture-OafYWh"><svg xmlns=3D"http://www.w3.org/200=
+0/svg" width=3D"1em" height=3D"1em" fill=3D"none" viewBox=3D"0 0 24 24"><pa=
+th fill=3D"currentColor" d=3D"M3.25 18.19a.83.83 0 0 1-.608-.252.83.83 0 0 =
+1-.253-.608.83.83 0 0 1 .253-.609.83.83 0 0 1 .608-.253h17.493q.356 0 .602.=
+253a.83.83 0 0 1 .253.609.83.83 0 0 1-.253.608.8.8 0 0 1-.602.253zM13.545 7=
+.62V6.254h4.225q.786 0 1.203.417.417.41.417 1.19v9.196h-1.367v-8.84q0-.595-=
+.595-.595zM10.44 6.254v1.368H6.565q-.6 0-.601.594v8.841H4.597V7.86q0-.78.43=
+-1.19.438-.417 1.19-.417zm.978-1.319a.54.54 0 0 1 .17-.417.56.56 0 0 1 .404=
+-.164q.24 0 .41.164a.54.54 0 0 1 .171.417v6.018l-.068 1.196 1.066-1.217.363=
+-.348a.7.7 0 0 1 .191-.123.6.6 0 0 1 .226-.048.537.537 0 0 1 .553.56q0 .24-=
+.17.404l-2.25 2.262q-.232.233-.492.233-.252 0-.485-.233l-2.256-2.262a.55.55=
+ 0 0 1-.164-.404.56.56 0 0 1 .15-.403.54.54 0 0 1 .397-.157q.123 0 .232.047=
+a.7.7 0 0 1 .192.123l.355.35 1.066 1.216-.061-1.196z"></path></svg></span><=
+/span></div><span class=3D"closeBtn-MUUSAu"><span role=3D"img" class=3D"sem=
+i-icon semi-icon-default floatBtnCloseIcon-BIhnyV"><svg xmlns=3D"http://www=
+.w3.org/2000/svg" width=3D"1em" height=3D"1em" viewBox=3D"0 0 24 24"><path =
+d=3D"M5.762 18.238a.8.8 0 0 1-.234-.404 1 1 0 0 1 0-.468.85.85 0 0 1 .234-.=
+396l4.953-4.974L5.762 7.03a.8.8 0 0 1-.226-.396 1 1 0 0 1 0-.468.84.84 0 0 =
+1 .226-.404.86.86 0 0 1 .412-.234 1 1 0 0 1 .467 0q.233.057.404.226l4.961 4=
+.966 4.953-4.966a.76.76 0 0 1 .404-.226.95.95 0 0 1 .46 0 .9.9 0 0 1 .419.2=
+34.84.84 0 0 1 .226.404.86.86 0 0 1 0 .468.9.9 0 0 1-.226.404l-4.953 4.958 =
+4.953 4.966a.9.9 0 0 1 .226.412.95.95 0 0 1 0 .46.84.84 0 0 1-.226.404.86.8=
+6 0 0 1-.412.234 1 1 0 0 1-.467 0 .84.84 0 0 1-.404-.226l-4.953-4.966-4.961=
+ 4.966a.84.84 0 0 1-.404.226 1 1 0 0 1-.467 0 .86.86 0 0 1-.412-.234"></pat=
+h></svg></span></span></div></div></div><div data-testid=3D"float-button-br=
+and-entry" class=3D"floatBtnBrand-DnIPgk"><div class=3D"closeBtn-MUUSAu" da=
+ta-testid=3D"disable-option"><span role=3D"img" class=3D"semi-icon semi-ico=
+n-default floatBtnCloseIcon-BIhnyV" aria-haspopup=3D"true" aria-expanded=3D=
+"false" tabindex=3D"0" aria-describedby=3D"lu8mtxd" data-popupid=3D"lu8mtxd=
+"><svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"1em" height=3D"1em" vi=
+ewBox=3D"0 0 24 24"><path d=3D"M5.762 18.238a.8.8 0 0 1-.234-.404 1 1 0 0 1=
+ 0-.468.85.85 0 0 1 .234-.396l4.953-4.974L5.762 7.03a.8.8 0 0 1-.226-.396 1=
+ 1 0 0 1 0-.468.84.84 0 0 1 .226-.404.86.86 0 0 1 .412-.234 1 1 0 0 1 .467 =
+0q.233.057.404.226l4.961 4.966 4.953-4.966a.76.76 0 0 1 .404-.226.95.95 0 0=
+ 1 .46 0 .9.9 0 0 1 .419.234.84.84 0 0 1 .226.404.86.86 0 0 1 0 .468.9.9 0 =
+0 1-.226.404l-4.953 4.958 4.953 4.966a.9.9 0 0 1 .226.412.95.95 0 0 1 0 .46=
+.84.84 0 0 1-.226.404.86.86 0 0 1-.412.234 1 1 0 0 1-.467 0 .84.84 0 0 1-.4=
+04-.226l-4.953-4.966-4.961 4.966a.84.84 0 0 1-.404.226 1 1 0 0 1-.467 0 .86=
+.86 0 0 1-.412-.234"></path></svg></span></div><img src=3D"chrome-extension=
+://dbjibobgilijgolhjdcbdebjhejelffo/assets/icon.png" class=3D"floatBtnAvata=
+r-zS_g4L" tabindex=3D"0" aria-describedby=3D"ch9i2df" data-popupid=3D"ch9i2=
+df"></div></div></div><div class=3D"cici-popup-container"></div></div></div=
+></template></doubao-ai-csui><div id=3D"doubao-ai-assistant" aria-label=3D"=
+flow-ai-assistant" aria-description=3D"" style=3D"width: 0px; height: 0px; =
+position: absolute; top: 0px; left: 0px; overflow: hidden;"></div></body></=
+html>
+------MultipartBoundary--cLxxtuL6fG5ByWEmXP0Dvt0JwBpWUqBht8vc3A4nPj----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-02f792e8-e5e8-491a-b814-5aa1e45163ca@mhtml.blink
+
+@charset "utf-8";
+
+.docsify-copy-code-button, .docsify-copy-code-button span { cursor: pointer=
+; transition: 0.25s; }
+
+.docsify-copy-code-button { position: absolute; z-index: 1; top: 0px; right=
+: 0px; overflow: visible; padding: 0.65em 0.8em; border: 0px; border-radius=
+: 0px; outline: 0px; font-size: 1em; background: var(--theme-color,grey); c=
+olor: rgb(255, 255, 255); opacity: 0; }
+
+.docsify-copy-code-button span { border-radius: 3px; background: inherit; p=
+ointer-events: none; }
+
+.docsify-copy-code-button .error, .docsify-copy-code-button .success { posi=
+tion: absolute; z-index: -100; top: 50%; left: 0px; padding: 0.5em 0.65em; =
+font-size: 0.825em; opacity: 0; transform: translateY(-50%); }
+
+.docsify-copy-code-button.error .error, .docsify-copy-code-button.success .=
+success { opacity: 1; transform: translate(-115%, -50%); }
+
+.docsify-copy-code-button:focus, pre:hover .docsify-copy-code-button { opac=
+ity: 1; }
+------MultipartBoundary--cLxxtuL6fG5ByWEmXP0Dvt0JwBpWUqBht8vc3A4nPj----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-e5c9e3c7-b1a8-4fac-abf6-b1692f4b1945@mhtml.blink
+
+@charset "utf-8";
+
+.medium-zoom-overlay { position: fixed; inset: 0px; opacity: 0; transition:=
+ opacity 0.3s; will-change: opacity; }
+
+.medium-zoom--opened .medium-zoom-overlay { cursor: zoom-out; opacity: 1; }
+
+.medium-zoom-image { cursor: zoom-in; transition: transform 0.3s cubic-bezi=
+er(0.2, 0, 0.2, 1) !important; }
+
+.medium-zoom-image--hidden { visibility: hidden; }
+
+.medium-zoom-image--opened { position: relative; cursor: zoom-out; will-cha=
+nge: transform; }
+------MultipartBoundary--cLxxtuL6fG5ByWEmXP0Dvt0JwBpWUqBht8vc3A4nPj----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-331a321b-358a-43fb-b3ca-c1596b52225a@mhtml.blink
+
+@charset "utf-8";
+
+.sidebar { padding-top: 0px; }
+
+.search { margin-bottom: 20px; padding: 6px; border-bottom: 1px solid rgb(2=
+38, 238, 238); }
+
+.search .input-wrap { display: flex; align-items: center; }
+
+.search .results-panel { display: none; }
+
+.search .results-panel.show { display: block; }
+
+.search input { outline: none; width: 100%; padding: 0px 7px; line-height: =
+36px; font-size: 14px; border: 1px solid transparent; }
+
+.search input:focus { box-shadow: 0 0 5px var(--theme-color, #42b983); bord=
+er: 1px solid var(--theme-color, #42b983); }
+
+.search input::-webkit-search-decoration, .search input::-webkit-search-can=
+cel-button, .search input { appearance: none; }
+
+.search .clear-button { cursor: pointer; width: 36px; text-align: right; di=
+splay: none; }
+
+.search .clear-button.show { display: block; }
+
+.search .clear-button svg { transform: scale(0.5); }
+
+.search h2 { font-size: 17px; margin: 10px 0px; }
+
+.search a { text-decoration: none; color: inherit; }
+
+.search .matching-post { border-bottom: 1px solid rgb(238, 238, 238); }
+
+.search .matching-post:last-child { border-bottom: 0px; }
+
+.search p { font-size: 14px; overflow: hidden; text-overflow: ellipsis; dis=
+play: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+
+.search p.empty { text-align: center; }
+
+.app-name.hide, .sidebar-nav.hide { display: none; }
+------MultipartBoundary--cLxxtuL6fG5ByWEmXP0Dvt0JwBpWUqBht8vc3A4nPj----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-59925b64-b971-4fef-b19d-6a9e30a85466@mhtml.blink
+
+@charset "utf-8";
+
+.danmu { overflow: hidden; user-select: none; }
+
+.danmu > * { position: absolute; white-space: nowrap; }
+
+.danmu-switch { width: 32px; height: 20px; border-radius: 100px; background=
+-color: rgb(204, 204, 204); box-sizing: border-box; outline: none; cursor: =
+pointer; position: relative; text-align: center; margin: 10px auto; }
+
+.danmu-switch.danmu-switch-active { padding-left: 12px; background-color: r=
+gb(248, 89, 89); }
+
+.danmu-switch span.txt { width: 20px; height: 20px; line-height: 20px; text=
+-align: center; display: block; border-radius: 100px; background-color: rgb=
+(255, 255, 255); box-shadow: rgba(0, 0, 0, 0.04) -2px 0px 0px 0px; font-fam=
+ily: PingFangSC; font-size: 10px; font-weight: 500; color: rgb(244, 67, 54)=
+; }
+------MultipartBoundary--cLxxtuL6fG5ByWEmXP0Dvt0JwBpWUqBht8vc3A4nPj----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-ffbae473-eb62-4ef5-a07a-152adbcbc91d@mhtml.blink
+
+@charset "utf-8";
+
+.markdown-section { max-width: 95%; }
+------MultipartBoundary--cLxxtuL6fG5ByWEmXP0Dvt0JwBpWUqBht8vc3A4nPj----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://pyecharts.org/static/vue.css
+
+@charset "utf-8";
+
+@import url("https://fonts.googleapis.com/css?family=3DRoboto+Mono|Source+S=
+ans+Pro:300,400,600");
+
+* { -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(=
+0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box; }
+
+body:not(.ready) { overflow: hidden; }
+
+body:not(.ready) .app-nav, body:not(.ready) > nav, body:not(.ready) [data-c=
+loak] { display: none; }
+
+div#app { font-size: 30px; font-weight: lighter; margin: 40vh auto; text-al=
+ign: center; }
+
+div#app:empty::before { content: "Loading..."; }
+
+.emoji { height: 1.2rem; vertical-align: middle; }
+
+.progress { background-color: var(--theme-color,#42b983); height: 2px; left=
+: 0px; position: fixed; right: 0px; top: 0px; transition: width 0.2s, opaci=
+ty 0.4s; width: 0px; z-index: 999999; }
+
+.search .search-keyword, .search a:hover { color: var(--theme-color,#42b983=
+); }
+
+.search .search-keyword { font-style: normal; font-weight: 700; }
+
+body, html { height: 100%; }
+
+body { -webkit-font-smoothing: antialiased; color: rgb(52, 73, 94); font-fa=
+mily: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif; font-size: 15=
+px; letter-spacing: 0px; margin: 0px; overflow-x: hidden; }
+
+img { max-width: 100%; }
+
+a[disabled] { cursor: not-allowed; opacity: 0.6; }
+
+kbd { border: 1px solid rgb(204, 204, 204); border-radius: 3px; display: in=
+line-block; line-height: 12px; margin-bottom: 3px; padding: 3px 5px; vertic=
+al-align: middle; font-size: 12px !important; }
+
+li input[type=3D"checkbox"] { margin: 0px 0.2em 0.25em 0px; vertical-align:=
+ middle; }
+
+.app-nav { margin: 25px 60px 0px 0px; position: absolute; right: 0px; text-=
+align: right; z-index: 10; }
+
+.app-nav.no-badge { margin-right: 25px; }
+
+.app-nav p { margin: 0px; }
+
+.app-nav > a { margin: 0px 1rem; padding: 5px 0px; }
+
+.app-nav li, .app-nav ul { display: inline-block; list-style: none; margin:=
+ 0px; }
+
+.app-nav a { color: inherit; font-size: 16px; text-decoration: none; transi=
+tion: color 0.3s; }
+
+.app-nav a.active, .app-nav a:hover { color: var(--theme-color,#42b983); }
+
+.app-nav a.active { border-bottom: 2px solid var(--theme-color,#42b983); }
+
+.app-nav li { display: inline-block; margin: 0px 1rem; padding: 5px 0px; po=
+sition: relative; cursor: pointer; }
+
+.app-nav li ul { background-color: rgb(255, 255, 255); border-width: 1px; b=
+order-style: solid; border-image: initial; border-color: rgb(221, 221, 221)=
+ rgb(221, 221, 221) rgb(204, 204, 204); border-radius: 4px; box-sizing: bor=
+der-box; display: none; max-height: calc(-61px + 100vh); overflow-y: auto; =
+padding: 10px 0px; position: absolute; right: -15px; text-align: left; top:=
+ 100%; white-space: nowrap; }
+
+.app-nav li ul li { display: block; font-size: 14px; line-height: 1rem; mar=
+gin: 8px 14px; white-space: nowrap; }
+
+.app-nav li ul a { display: block; font-size: inherit; margin: 0px; padding=
+: 0px; }
+
+.app-nav li ul a.active { border-bottom: 0px; }
+
+.app-nav li:hover ul { display: block; }
+
+.github-corner { border-bottom: 0px; position: fixed; right: 0px; text-deco=
+ration: none; top: 0px; z-index: 1; }
+
+.github-corner:hover .octo-arm { animation: 0.56s ease-in-out 0s 1 normal n=
+one running octocat-wave; }
+
+.github-corner svg { color: rgb(255, 255, 255); fill: var(--theme-color,#42=
+b983); height: 80px; width: 80px; }
+
+main { display: block; position: relative; width: 100vw; height: 100%; z-in=
+dex: 0; }
+
+main.hidden { display: none; }
+
+.anchor { display: inline-block; text-decoration: none; transition: 0.3s; }
+
+.anchor span { color: rgb(52, 73, 94); }
+
+.anchor:hover { text-decoration: underline; }
+
+.sidebar { border-right: 1px solid rgba(0, 0, 0, 0.07); overflow-y: auto; p=
+adding: 40px 0px 0px; position: absolute; top: 0px; bottom: 0px; left: 0px;=
+ transition: transform 0.25s ease-out; width: 300px; z-index: 20; }
+
+.sidebar > h1 { margin: 0px auto 1rem; font-size: 1.5rem; font-weight: 300;=
+ text-align: center; }
+
+.sidebar > h1 a { color: inherit; text-decoration: none; }
+
+.sidebar > h1 .app-nav { display: block; position: static; }
+
+.sidebar .sidebar-nav { line-height: 2em; padding-bottom: 40px; }
+
+.sidebar li.collapse .app-sub-sidebar { display: none; }
+
+.sidebar ul { margin: 0px 0px 0px 15px; padding: 0px; }
+
+.sidebar li > p { font-weight: 700; margin: 0px; }
+
+.sidebar ul, .sidebar ul li { list-style: none; }
+
+.sidebar ul li a { border-bottom: none; display: block; }
+
+.sidebar ul li ul { padding-left: 20px; }
+
+.sidebar::-webkit-scrollbar { width: 4px; }
+
+.sidebar::-webkit-scrollbar-thumb { background: transparent; border-radius:=
+ 4px; }
+
+.sidebar:hover::-webkit-scrollbar-thumb { background: rgba(136, 136, 136, 0=
+.4); }
+
+.sidebar:hover::-webkit-scrollbar-track { background: rgba(136, 136, 136, 0=
+.1); }
+
+.sidebar-toggle { background-color: rgba(255, 255, 255, 0.8); border: 0px; =
+outline: none; padding: 10px; position: absolute; bottom: 0px; left: 0px; t=
+ext-align: center; transition: opacity 0.3s; width: 284px; z-index: 30; cur=
+sor: pointer; }
+
+.sidebar-toggle:hover .sidebar-toggle-button { opacity: 0.4; }
+
+.sidebar-toggle span { background-color: var(--theme-color,#42b983); displa=
+y: block; margin-bottom: 4px; width: 16px; height: 2px; }
+
+body.sticky .sidebar, body.sticky .sidebar-toggle { position: fixed; }
+
+.content { padding-top: 60px; position: absolute; inset: 0px 0px 0px 300px;=
+ transition: left 0.25s; }
+
+.markdown-section { margin: 0px auto; max-width: 80%; padding: 30px 15px 40=
+px; position: relative; }
+
+.markdown-section > * { box-sizing: border-box; font-size: inherit; }
+
+.markdown-section > :first-child { margin-top: 0px !important; }
+
+.markdown-section hr { border-top: none; border-right: none; border-left: n=
+one; border-image: initial; border-bottom: 1px solid rgb(238, 238, 238); ma=
+rgin: 2em 0px; }
+
+.markdown-section iframe { border: 1px solid rgb(238, 238, 238); width: 1px=
+; min-width: 100%; }
+
+.markdown-section table { border-collapse: collapse; border-spacing: 0px; d=
+isplay: block; margin-bottom: 1rem; overflow: auto; width: 100%; }
+
+.markdown-section th { font-weight: 700; }
+
+.markdown-section td, .markdown-section th { border: 1px solid rgb(221, 221=
+, 221); padding: 6px 13px; }
+
+.markdown-section tr { border-top: 1px solid rgb(204, 204, 204); }
+
+.markdown-section p.tip, .markdown-section tr:nth-child(2n) { background-co=
+lor: rgb(248, 248, 248); }
+
+.markdown-section p.tip { border-bottom-right-radius: 2px; border-left: 4px=
+ solid rgb(255, 102, 102); border-top-right-radius: 2px; margin: 2em 0px; p=
+adding: 12px 24px 12px 30px; position: relative; }
+
+.markdown-section p.tip::before { background-color: rgb(255, 102, 102); bor=
+der-radius: 100%; color: rgb(255, 255, 255); content: "!"; font-family: Dos=
+is, "Source Sans Pro", "Helvetica Neue", Arial, sans-serif; font-size: 14px=
+; font-weight: 700; left: -12px; line-height: 20px; position: absolute; hei=
+ght: 20px; width: 20px; text-align: center; top: 14px; }
+
+.markdown-section p.tip code { background-color: rgb(239, 239, 239); }
+
+.markdown-section p.tip em { color: rgb(52, 73, 94); }
+
+.markdown-section p.warn { background: rgba(66, 185, 131, 0.1); border-radi=
+us: 2px; padding: 1rem; }
+
+.markdown-section ul.task-list > li { list-style-type: none; }
+
+body.close .sidebar { transform: translateX(-300px); }
+
+body.close .sidebar-toggle { width: auto; }
+
+body.close .content { left: 0px; }
+
+@media print {
+  .app-nav, .github-corner, .sidebar, .sidebar-toggle { display: none; }
+}
+
+@media screen and (max-width: 768px) {
+  .github-corner, .sidebar, .sidebar-toggle { position: fixed; }
+  .app-nav { margin-top: 16px; }
+  .app-nav li ul { top: 30px; }
+  main { height: auto; overflow-x: hidden; }
+  .sidebar { left: -300px; transition: transform 0.25s ease-out; }
+  .content { left: 0px; max-width: 100vw; position: static; padding-top: 20=
+px; transition: transform 0.25s; }
+  .app-nav, .github-corner { transition: transform 0.25s ease-out; }
+  .sidebar-toggle { background-color: transparent; width: auto; padding: 30=
+px 30px 10px 10px; }
+  body.close .sidebar { transform: translateX(300px); }
+  body.close .sidebar-toggle { background-color: rgba(255, 255, 255, 0.8); =
+transition: background-color 1s; width: 284px; padding: 10px; }
+  body.close .content { transform: translateX(300px); }
+  body.close .app-nav, body.close .github-corner { display: none; }
+  .github-corner:hover .octo-arm { animation: auto ease 0s 1 normal none ru=
+nning none; }
+  .github-corner .octo-arm { animation: 0.56s ease-in-out 0s 1 normal none =
+running octocat-wave; }
+}
+
+@-webkit-keyframes octocat-wave {=20
+  0%, 100% { transform: rotate(0deg); }
+  20%, 60% { transform: rotate(-25deg); }
+  40%, 80% { transform: rotate(10deg); }
+}
+
+@keyframes octocat-wave {=20
+  0%, 100% { transform: rotate(0deg); }
+  20%, 60% { transform: rotate(-25deg); }
+  40%, 80% { transform: rotate(10deg); }
+}
+
+section.cover { align-items: center; background-position: 50% center; backg=
+round-repeat: no-repeat; background-size: cover; height: 100vh; width: 100v=
+w; display: none; }
+
+section.cover.show { display: flex; }
+
+section.cover.has-mask .mask { background-color: rgb(255, 255, 255); opacit=
+y: 0.8; position: absolute; top: 0px; height: 100%; width: 100%; }
+
+section.cover .cover-main { flex: 1 1 0%; margin: -20px 16px 0px; text-alig=
+n: center; }
+
+section.cover a { color: inherit; }
+
+section.cover a, section.cover a:hover { text-decoration: none; }
+
+section.cover p { line-height: 1.5rem; margin: 1em 0px; }
+
+section.cover h1 { color: inherit; font-size: 2.5rem; font-weight: 300; mar=
+gin: 0.625rem 0px 2.5rem; position: relative; text-align: center; }
+
+section.cover h1 a { display: block; }
+
+section.cover h1 small { bottom: -0.4375rem; font-size: 1rem; position: abs=
+olute; }
+
+section.cover blockquote { font-size: 1.5rem; text-align: center; }
+
+section.cover ul { line-height: 1.8; list-style-type: none; margin: 1em aut=
+o; max-width: 500px; padding: 0px; }
+
+section.cover .cover-main > p:last-child a { border-radius: 2rem; border: 1=
+px solid var(--theme-color,#42b983); box-sizing: border-box; color: var(--t=
+heme-color,#42b983); display: inline-block; font-size: 1.05rem; letter-spac=
+ing: 0.1rem; margin: 0.5rem 1rem; padding: 0.75em 2rem; text-decoration: no=
+ne; transition: 0.15s; }
+
+section.cover .cover-main > p:last-child a:last-child { background-color: v=
+ar(--theme-color,#42b983); color: rgb(255, 255, 255); }
+
+section.cover .cover-main > p:last-child a:last-child:hover { color: inheri=
+t; opacity: 0.8; }
+
+section.cover .cover-main > p:last-child a:hover { color: inherit; }
+
+section.cover blockquote > p > a { border-bottom: 2px solid var(--theme-col=
+or,#42b983); transition: color 0.3s; }
+
+section.cover blockquote > p > a:hover { color: var(--theme-color,#42b983);=
+ }
+
+.sidebar, body { background-color: rgb(255, 255, 255); }
+
+.sidebar { color: rgb(54, 65, 73); }
+
+.sidebar li { margin: 6px 0px; }
+
+.sidebar ul li a { color: rgb(80, 93, 107); font-size: 14px; font-weight: 4=
+00; overflow: hidden; text-decoration: none; text-overflow: ellipsis; white=
+-space: nowrap; }
+
+.sidebar ul li a:hover { text-decoration: underline; }
+
+.sidebar ul li ul { padding: 0px; }
+
+.sidebar ul li.active > a { border-right: 2px solid; color: var(--theme-col=
+or,#42b983); font-weight: 600; }
+
+.app-sub-sidebar li::before { content: "-"; padding-right: 4px; float: left=
+; }
+
+.markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown=
+-section h4, .markdown-section strong { color: rgb(44, 62, 80); font-weight=
+: 600; }
+
+.markdown-section a { color: var(--theme-color,#42b983); font-weight: 600; =
+}
+
+.markdown-section h1 { font-size: 2rem; margin: 0px 0px 1rem; }
+
+.markdown-section h2 { font-size: 1.75rem; margin: 45px 0px 0.8rem; }
+
+.markdown-section h3 { font-size: 1.5rem; margin: 40px 0px 0.6rem; }
+
+.markdown-section h4 { font-size: 1.25rem; }
+
+.markdown-section h5 { font-size: 1rem; }
+
+.markdown-section h6 { color: rgb(119, 119, 119); font-size: 1rem; }
+
+.markdown-section figure, .markdown-section p { margin: 1.2em 0px; }
+
+.markdown-section ol, .markdown-section p, .markdown-section ul { line-heig=
+ht: 1.6rem; word-spacing: 0.05rem; }
+
+.markdown-section ol, .markdown-section ul { padding-left: 1.5rem; }
+
+.markdown-section blockquote { border-left: 4px solid var(--theme-color,#42=
+b983); color: rgb(133, 133, 133); margin: 2em 0px; padding-left: 20px; }
+
+.markdown-section blockquote p { font-weight: 600; margin-left: 0px; }
+
+.markdown-section iframe { margin: 1em 0px; }
+
+.markdown-section em { color: rgb(127, 140, 141); }
+
+.markdown-section code { border-radius: 2px; color: rgb(233, 105, 0); font-=
+size: 0.8rem; margin: 0px 2px; padding: 3px 5px; white-space: pre-wrap; }
+
+.markdown-section code, .markdown-section pre { background-color: rgb(248, =
+248, 248); font-family: "Roboto Mono", Monaco, courier, monospace; }
+
+.markdown-section pre { -webkit-font-smoothing: initial; line-height: 1.5re=
+m; margin: 1.2em 0px; overflow: auto; padding: 0px 1.4rem; position: relati=
+ve; overflow-wrap: normal; }
+
+.token.cdata, .token.comment, .token.doctype, .token.prolog { color: rgb(14=
+2, 144, 140); }
+
+.token.namespace { opacity: 0.7; }
+
+.token.boolean, .token.number { color: rgb(199, 107, 41); }
+
+.token.punctuation { color: rgb(82, 82, 82); }
+
+.token.property { color: rgb(192, 139, 48); }
+
+.token.tag { color: rgb(41, 115, 183); }
+
+.token.string { color: var(--theme-color,#42b983); }
+
+.token.selector { color: rgb(102, 121, 204); }
+
+.token.attr-name { color: rgb(41, 115, 183); }
+
+.language-css .token.string, .style .token.string, .token.entity, .token.ur=
+l { color: rgb(34, 162, 201); }
+
+.token.attr-value, .token.control, .token.directive, .token.unit { color: v=
+ar(--theme-color,#42b983); }
+
+.token.function, .token.keyword { color: rgb(233, 105, 0); }
+
+.token.atrule, .token.regex, .token.statement { color: rgb(34, 162, 201); }
+
+.token.placeholder, .token.variable { color: rgb(61, 143, 209); }
+
+.token.deleted { text-decoration: line-through; }
+
+.token.inserted { border-bottom: 1px dotted rgb(32, 39, 70); text-decoratio=
+n: none; }
+
+.token.italic { font-style: italic; }
+
+.token.bold, .token.important { font-weight: 700; }
+
+.token.important { color: rgb(201, 73, 34); }
+
+.token.entity { cursor: help; }
+
+.markdown-section pre > code { -webkit-font-smoothing: initial; background-=
+color: rgb(248, 248, 248); border-radius: 2px; color: rgb(82, 82, 82); disp=
+lay: block; font-family: "Roboto Mono", Monaco, courier, monospace; font-si=
+ze: 0.8rem; line-height: inherit; margin: 0px 2px; max-width: inherit; over=
+flow: inherit; padding: 2.2em 5px; white-space: inherit; }
+
+.markdown-section code::after, .markdown-section code::before { letter-spac=
+ing: 0.05rem; }
+
+code .token { -webkit-font-smoothing: initial; min-height: 1.5rem; position=
+: relative; left: auto; }
+
+pre::after { color: rgb(204, 204, 204); content: attr(data-lang); font-size=
+: 0.6rem; font-weight: 600; height: 15px; line-height: 15px; padding: 5px 1=
+0px 0px; position: absolute; right: 0px; text-align: right; top: 0px; }
+------MultipartBoundary--cLxxtuL6fG5ByWEmXP0Dvt0JwBpWUqBht8vc3A4nPj----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://fonts.googleapis.com/css?family=Roboto+Mono|Source+Sans+Pro:300,400,600
+
+@charset "utf-8";
+
+@font-face { font-family: "Roboto Mono"; font-style: normal; font-weight: 4=
+00; src: url("https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8b=
+XMIhJHg45mwgGEFl0_3vq_SeW4Ep0.woff2") format("woff2"); unicode-range: U+460=
+-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "Roboto Mono"; font-style: normal; font-weight: 4=
+00; src: url("https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8b=
+XMIhJHg45mwgGEFl0_3vq_QOW4Ep0.woff2") format("woff2"); unicode-range: U+301=
+, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Roboto Mono"; font-style: normal; font-weight: 4=
+00; src: url("https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8b=
+XMIhJHg45mwgGEFl0_3vq_R-W4Ep0.woff2") format("woff2"); unicode-range: U+370=
+-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: "Roboto Mono"; font-style: normal; font-weight: 4=
+00; src: url("https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8b=
+XMIhJHg45mwgGEFl0_3vq_S-W4Ep0.woff2") format("woff2"); unicode-range: U+102=
+-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+3=
+03-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Roboto Mono"; font-style: normal; font-weight: 4=
+00; src: url("https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8b=
+XMIhJHg45mwgGEFl0_3vq_SuW4Ep0.woff2") format("woff2"); unicode-range: U+100=
+-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D=
+00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113=
+, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Roboto Mono"; font-style: normal; font-weight: 4=
+00; src: url("https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8b=
+XMIhJHg45mwgGEFl0_3vq_ROW4.woff2") format("woff2"); unicode-range: U+0-FF, =
+U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+20=
+00-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 300; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcS=
+V-LCoeQqfX1RYOo3ik4zwmhduz8A.woff2") format("woff2"); unicode-range: U+460-=
+52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 300; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcS=
+V-LCoeQqfX1RYOo3ik4zwkxduz8A.woff2") format("woff2"); unicode-range: U+301,=
+ U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 300; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcS=
+V-LCoeQqfX1RYOo3ik4zwmxduz8A.woff2") format("woff2"); unicode-range: U+1F00=
+-1FFF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 300; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcS=
+V-LCoeQqfX1RYOo3ik4zwlBduz8A.woff2") format("woff2"); unicode-range: U+370-=
+377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 300; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcS=
+V-LCoeQqfX1RYOo3ik4zwmBduz8A.woff2") format("woff2"); unicode-range: U+102-=
+103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+30=
+3-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 300; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcS=
+V-LCoeQqfX1RYOo3ik4zwmRduz8A.woff2") format("woff2"); unicode-range: U+100-=
+2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D0=
+0-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113,=
+ U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 300; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcS=
+V-LCoeQqfX1RYOo3ik4zwlxdu.woff2") format("woff2"); unicode-range: U+0-FF, U=
++131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+200=
+0-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcS=
+V-LCoeQqfX1RYOo3qNa7lqDY.woff2") format("woff2"); unicode-range: U+460-52F,=
+ U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcS=
+V-LCoeQqfX1RYOo3qPK7lqDY.woff2") format("woff2"); unicode-range: U+301, U+4=
+00-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcS=
+V-LCoeQqfX1RYOo3qNK7lqDY.woff2") format("woff2"); unicode-range: U+1F00-1FF=
+F; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcS=
+V-LCoeQqfX1RYOo3qO67lqDY.woff2") format("woff2"); unicode-range: U+370-377,=
+ U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcS=
+V-LCoeQqfX1RYOo3qN67lqDY.woff2") format("woff2"); unicode-range: U+102-103,=
+ U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-30=
+4, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcS=
+V-LCoeQqfX1RYOo3qNq7lqDY.woff2") format("woff2"); unicode-range: U+100-2BA,=
+ U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1D=
+BF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2=
+C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcS=
+V-LCoeQqfX1RYOo3qOK7l.woff2") format("woff2"); unicode-range: U+0-FF, U+131=
+, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-20=
+6F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 600; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcS=
+V-LCoeQqfX1RYOo3i54rwmhduz8A.woff2") format("woff2"); unicode-range: U+460-=
+52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 600; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcS=
+V-LCoeQqfX1RYOo3i54rwkxduz8A.woff2") format("woff2"); unicode-range: U+301,=
+ U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 600; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcS=
+V-LCoeQqfX1RYOo3i54rwmxduz8A.woff2") format("woff2"); unicode-range: U+1F00=
+-1FFF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 600; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcS=
+V-LCoeQqfX1RYOo3i54rwlBduz8A.woff2") format("woff2"); unicode-range: U+370-=
+377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 600; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcS=
+V-LCoeQqfX1RYOo3i54rwmBduz8A.woff2") format("woff2"); unicode-range: U+102-=
+103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+30=
+3-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 600; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcS=
+V-LCoeQqfX1RYOo3i54rwmRduz8A.woff2") format("woff2"); unicode-range: U+100-=
+2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D0=
+0-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113,=
+ U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 600; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcS=
+V-LCoeQqfX1RYOo3i54rwlxdu.woff2") format("woff2"); unicode-range: U+0-FF, U=
++131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+200=
+0-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--cLxxtuL6fG5ByWEmXP0Dvt0JwBpWUqBht8vc3A4nPj----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: chrome-extension://dbjibobgilijgolhjdcbdebjhejelffo/assets/icon.png
+
+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
+
+------MultipartBoundary--cLxxtuL6fG5ByWEmXP0Dvt0JwBpWUqBht8vc3A4nPj----
+Content-Type: text/html
+Content-ID: <frame-BCD5D7B02FAADCCF2AC71994B44C5F1E@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://gallery.pyecharts.org/Map/map_base.html
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8">
+   =20
+    <title>Awesome-pyecharts</title>
+               =20
+           =20
+
+</head>
+<body>
+    <div id=3D"3df2e1273fc843fb83037d70772a0253" class=3D"chart-container" =
+style=3D"width: 900px; height: 500px; user-select: none; -webkit-tap-highli=
+ght-color: rgba(0, 0, 0, 0); position: relative;" _echarts_instance_=3D"ec_=
+1731925905982"><div style=3D"position: relative; width: 900px; height: 500p=
+x; padding: 0px; margin: 0px; border-width: 0px; cursor: default;"><canvas =
+data-zr-dom-id=3D"zr_0" width=3D"1800" height=3D"1000" style=3D"position: a=
+bsolute; left: 0px; top: 0px; width: 900px; height: 500px; user-select: non=
+e; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); padding: 0px; margin: 0px=
+; border-width: 0px;"></canvas></div><div class=3D"" style=3D"position: abs=
+olute; display: block; border-style: solid; white-space: nowrap; z-index: 9=
+999999; box-shadow: rgba(0, 0, 0, 0.2) 1px 2px 10px; transition: opacity 0.=
+2s cubic-bezier(0.23, 1, 0.32, 1), visibility 0.2s cubic-bezier(0.23, 1, 0.=
+32, 1), transform 0.4s cubic-bezier(0.23, 1, 0.32, 1); background-color: rg=
+b(255, 255, 255); border-width: 0px; border-radius: 4px; color: rgb(102, 10=
+2, 102); font: 14px / 21px &quot;Microsoft YaHei&quot;; padding: 5px; top: =
+0px; left: 0px; transform: translate3d(291px, 136px, 0px); border-color: rg=
+b(84, 112, 198); pointer-events: none; visibility: hidden; opacity: 0;"><di=
+v style=3D"margin: 0px 0 0;line-height:1;"><div style=3D"margin: 0px 0 0;li=
+ne-height:1;"><span style=3D"font-size:14px;color:#666;font-weight:400;">=
+=E5=A4=A9=E6=B4=A5=E5=B8=82</span><span style=3D"float:right;margin-left:20=
+px;font-size:14px;color:#666;font-weight:900">-</span><div style=3D"clear:b=
+oth"></div></div><div style=3D"clear:both"></div></div></div></div>
+   =20
+
+
+</body></html>
+------MultipartBoundary--cLxxtuL6fG5ByWEmXP0Dvt0JwBpWUqBht8vc3A4nPj------

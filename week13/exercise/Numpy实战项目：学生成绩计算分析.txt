@@ -1,0 +1,23 @@
+﻿用Numpy函数实现如下统计分析
+
+# 数据集格式：
+# 编号、学号、专业、课程、分数
+# Id, No, Major, Course, Score
+
+# 统计结果
+# 从学生、专业、课程 三个维度出发
+# 1、每个学生的 不同成绩占比
+# 2、每个专业的 不同成绩占比
+# 3、每个课程的 不同成绩占比
+
+# Sample 1(按学生平均成绩排序)
+# No, Avg, Total, Excellent, Good, Medium, Pass, Fail 
+# 学号，平均分，总课程数，优秀率，良好率，中等率，及格率，不及格率
+
+# Sample 2（统计该专业各个平均分人数占比）
+# Major, Total, Excellent, Good, Medium, Pass, Fail 
+# 专业，专业总人数，优秀率，良好率，中等率，及格率，不及格率
+
+# Sample 3（统计课程各个平均分人数占比）
+# Course, Avg, Total, Excellent, Good, Medium, Pass, Fail 
+# 课程，课程平均分，课程人数，优秀率，良好率，中等率，及格率，不及格率
